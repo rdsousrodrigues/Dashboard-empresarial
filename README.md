@@ -1,4 +1,5 @@
-# Dashboard-empresarial
+# Dashboard Empresarial
+
 O objetivo principal deste dashboard é fornecer uma visão clara e precisa dos indicadores-chave de desempenho da empresa, facilitando a tomada de decisões estratégicas e a identificação de oportunidades de melhoria.
 
 **Procedimento para Análise**
