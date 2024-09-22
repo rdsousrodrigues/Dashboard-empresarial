@@ -14,10 +14,7 @@ Com o uso do Power BI, realizamos a extração de dados das planilhas: Base Comp
 **Vídeo ilustrativo sobre o processo de criação do Dashboard**
 
 
-https://github.com/user-attachments/assets/7dd1cf1a-9aa0-46b8-8014-ce7d0a6b9d27
-
-
-
+https://github.com/user-attachments/assets/3bf1f849-6c65-4cfa-b9e0-f72d2d32aba6
 
 
 Estou certo de que essa abordagem irá melhorar tanto a apresentação, tornando o planejamento mais eficaz e alinhado aos objetivos da empresa.
